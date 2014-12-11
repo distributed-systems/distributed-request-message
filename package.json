@@ -1,7 +1,7 @@
 {
       "name"                        : "distributed-request-message"
     , "description"                 : "Abstract distributed-framework request / reponse message pattern implementation"
-    , "version"                     : "0.1.0"
+    , "version"                     : "0.1.2"
     , "homepage"                    : "https://github.com/eventEmitter/distributed-request-message"
     , "author"                      : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)" 
     , "licence"                     : "mit"
@@ -21,6 +21,7 @@
         , "ee-types"                : "0.1.x"
         , "ee-log"                  : "0.3.x"
         , "distributed-message"     : "0.1.x"
+        , "ee-arguments"            : "1.0.x"
     }
     , "devDependencies": {
           "mocha"                   : "1.17.x"

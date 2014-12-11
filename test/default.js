@@ -95,7 +95,7 @@
 			assert.equal(request.action, 'create');
 		});
 
-
+		
 
 		it('should implement the StatusSet correctly', function() {
 			var   statuses = new RequestMessage.StatusSet(['ok'])
