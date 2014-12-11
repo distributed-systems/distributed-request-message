@@ -1,7 +1,7 @@
 {
       "name"                        : "distributed-request-message"
     , "description"                 : "Abstract distributed-framework request / reponse message pattern implementation"
-    , "version"                     : "0.1.2"
+    , "version"                     : "0.1.3"
     , "homepage"                    : "https://github.com/eventEmitter/distributed-request-message"
     , "author"                      : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)" 
     , "licence"                     : "mit"
